@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/icontrans.png') }}" width="100px">
